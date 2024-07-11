@@ -1,6 +1,6 @@
 # Spring Boot Author/Post/Comments Backend
 
-Sobre o projeto
+## Sobre o projeto
 Consiste no back-end responsável pela estruturação de posts, que possuem seus respectivos autores e comentários. O objetivo principal deste projeto é exercitar os conhecimentos de bancos de dados não-relacionais. 
 Na estrutura proposta, podemos realizar operações CRUD de usuários, usando endpoints de API REST.
 
