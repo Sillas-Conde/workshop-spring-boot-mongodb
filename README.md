@@ -10,15 +10,15 @@ Na estrutura proposta, podemos realizar operações CRUD de usuários, usando en
 
 # Tecnologias utilizadas
 ## Back end
-Java
-Spring Boot
-Maven
-Implantação em produção
-Back end: Undeployed
-Banco de dados: MongoDB
-Como executar o projeto
-Back end
-Pré-requisitos: Java 21
+- Java
+- Spring Boot
+- Maven
+  
+## Implantação em produção
+- Back end: Undeployed
+- Banco de dados: MongoDB
+  
+## Pré-requisitos: Java 21
 Spring Boot 3.x.x
 
 ## clonar repositório
